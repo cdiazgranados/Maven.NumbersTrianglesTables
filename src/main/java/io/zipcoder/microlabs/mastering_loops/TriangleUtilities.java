@@ -15,8 +15,8 @@ public class TriangleUtilities {
                 }
             }
         }
+        triangle = triangle + "\n";
         System.out.println(triangle);
-
         return triangle;
     }
 
@@ -41,8 +41,8 @@ public class TriangleUtilities {
                 }
             }
         }
+        triangle = triangle + "\n";
         System.out.println(triangle);
-
         return triangle;
     }
 
@@ -59,8 +59,8 @@ public class TriangleUtilities {
                 }
             }
         }
+        triangle = triangle + "\n";
         System.out.println(triangle);
-
         return triangle;
     }
 }
